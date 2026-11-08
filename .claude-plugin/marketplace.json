@@ -1,0 +1,34 @@
+{
+  "name": "lionel-sim-skills",
+  "owner": {
+    "name": "Lionel Sim",
+    "url": "https://sg.linkedin.com/in/lionelshen"
+  },
+  "metadata": {
+    "description": "Open-source AI agent skills and plugins by Lionel Sim (The AI Capitol).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "social-media-marketing-skills",
+      "source": "./",
+      "description": "120 social media marketing skills for AI agents across 12 categories by Lionel Sim (The AI Capitol): strategy, LinkedIn, TikTok, Instagram, YouTube, X, Facebook communities, content systems, community management, influencer partnerships, paid social and analytics \u2014 platform-specific workflows with honest-growth guardrails (no pods, no fake followers, no spam automation, disclosure on sponsored posts).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Lionel Sim"
+      },
+      "category": "marketing",
+      "license": "MIT",
+      "keywords": [
+        "social-media",
+        "marketing",
+        "linkedin",
+        "tiktok",
+        "instagram",
+        "youtube",
+        "skills",
+        "creator-economy"
+      ]
+    }
+  ]
+}

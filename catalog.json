@@ -1,0 +1,1224 @@
+{
+  "name": "social-media-marketing-skills",
+  "version": "1.0.0",
+  "description": "120 social media marketing skills for AI agents across 12 categories, by Lionel Sim (The AI Capitol).",
+  "author": "Lionel Sim",
+  "license": "MIT",
+  "count": 120,
+  "categories": {
+    "Strategy & Positioning": 10,
+    "LinkedIn Marketing": 10,
+    "TikTok & Short-Form Video": 10,
+    "Instagram & Reels": 10,
+    "YouTube": 10,
+    "X / Twitter": 10,
+    "Facebook & Communities": 10,
+    "Content Systems": 10,
+    "Community Management & Engagement": 10,
+    "Influencer & Creator Partnerships": 10,
+    "Paid Social": 10,
+    "Analytics, Social Listening & Growth": 10
+  },
+  "skills": [
+    {
+      "slug": "social-media-strategy-builder",
+      "name": "Social Media Strategy Builder",
+      "category": "Strategy & Positioning",
+      "description": "Build a complete social media strategy that ties channels, content and cadence to one business goal.",
+      "path": "social-media-strategy-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "audience-persona-builder-social",
+      "name": "Audience Persona Builder for Social",
+      "category": "Strategy & Positioning",
+      "description": "Build evidence-based audience personas from real social comments, profiles and community language.",
+      "path": "audience-persona-builder-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "brand-voice-social-playbook",
+      "name": "Brand Voice Social Playbook",
+      "category": "Strategy & Positioning",
+      "description": "Turn a brand voice into a usable social playbook with do/don't examples for every platform.",
+      "path": "brand-voice-social-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "channel-selection-matrix",
+      "name": "Channel Selection Matrix",
+      "category": "Strategy & Positioning",
+      "description": "Score and select social channels with a weighted matrix instead of copying competitors.",
+      "path": "channel-selection-matrix/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-media-offer-positioning",
+      "name": "Social Media Offer Positioning",
+      "category": "Strategy & Positioning",
+      "description": "Position one offer for social audiences so every profile, pin and post points at the same promise.",
+      "path": "social-media-offer-positioning/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "competitor-positioning-map-social",
+      "name": "Competitor Positioning Map for Social",
+      "category": "Strategy & Positioning",
+      "description": "Map how competitors position on social so the brand occupies a clear, defensible gap.",
+      "path": "competitor-positioning-map-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-media-goal-setting-okr",
+      "name": "Social Media Goal Setting and OKRs",
+      "category": "Strategy & Positioning",
+      "description": "Set social media OKRs with leading indicators a content team can actually influence weekly.",
+      "path": "social-media-goal-setting-okr/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "personal-brand-positioning-social",
+      "name": "Personal Brand Positioning for Social",
+      "category": "Strategy & Positioning",
+      "description": "Position a founder or expert's personal brand on social with a clear category, proof and point of view.",
+      "path": "personal-brand-positioning-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-media-audit-strategy",
+      "name": "Social Media Strategy Audit",
+      "category": "Strategy & Positioning",
+      "description": "Audit an existing social presence against strategy, content, community and conversion in one pass.",
+      "path": "social-media-audit-strategy/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "ninety-day-social-roadmap",
+      "name": "90-Day Social Media Roadmap",
+      "category": "Strategy & Positioning",
+      "description": "Turn a social strategy into a 90-day roadmap with monthly themes, launches and measurable checkpoints.",
+      "path": "ninety-day-social-roadmap/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-profile-optimizer",
+      "name": "LinkedIn Profile Optimizer",
+      "category": "LinkedIn Marketing",
+      "description": "Optimise a LinkedIn profile headline, banner, About and Featured sections for search and trust.",
+      "path": "linkedin-profile-optimizer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-personal-brand-content",
+      "name": "LinkedIn Personal Brand Content",
+      "category": "LinkedIn Marketing",
+      "description": "Plan and write LinkedIn posts that build expert authority with practitioners, not platitudes.",
+      "path": "linkedin-personal-brand-content/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-company-page-manager",
+      "name": "LinkedIn Company Page Manager",
+      "category": "LinkedIn Marketing",
+      "description": "Run a LinkedIn company page that supports the personal profiles instead of duplicating them.",
+      "path": "linkedin-company-page-manager/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-newsletter-builder",
+      "name": "LinkedIn Newsletter Builder",
+      "category": "LinkedIn Marketing",
+      "description": "Launch and grow a LinkedIn newsletter with a clear promise, cadence and conversion path.",
+      "path": "linkedin-newsletter-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-ssi-improver",
+      "name": "LinkedIn SSI Improver",
+      "category": "LinkedIn Marketing",
+      "description": "Raise a LinkedIn Social Selling Index with honest habits across its four pillars.",
+      "path": "linkedin-ssi-improver/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-thought-leadership-posts",
+      "name": "LinkedIn Thought Leadership Posts",
+      "category": "LinkedIn Marketing",
+      "description": "Write LinkedIn posts that stake a defensible position and invite practitioner debate.",
+      "path": "linkedin-thought-leadership-posts/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-carousel-creator",
+      "name": "LinkedIn Carousel Creator",
+      "category": "LinkedIn Marketing",
+      "description": "Plan LinkedIn document carousels that teach one framework completely, slide by slide.",
+      "path": "linkedin-carousel-creator/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-outreach-etiquette",
+      "name": "LinkedIn Outreach Etiquette",
+      "category": "LinkedIn Marketing",
+      "description": "Run LinkedIn connection and message outreach that respects the platform and the person.",
+      "path": "linkedin-outreach-etiquette/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-event-promotion",
+      "name": "LinkedIn Event Promotion",
+      "category": "LinkedIn Marketing",
+      "description": "Promote an event on LinkedIn from announcement to day-of with a dated content sequence.",
+      "path": "linkedin-event-promotion/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-analytics-review",
+      "name": "LinkedIn Analytics Review",
+      "category": "LinkedIn Marketing",
+      "description": "Review LinkedIn analytics monthly and turn them into content decisions, not vanity reports.",
+      "path": "linkedin-analytics-review/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-account-strategy",
+      "name": "TikTok Account Strategy",
+      "category": "TikTok & Short-Form Video",
+      "description": "Position a TikTok account around one audience problem and a repeatable series engine.",
+      "path": "tiktok-account-strategy/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-hook-writer",
+      "name": "TikTok Hook Writer",
+      "category": "TikTok & Short-Form Video",
+      "description": "Write TikTok opening hooks that hold the first 3 seconds with a specific promise or tension.",
+      "path": "tiktok-hook-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "short-form-video-scriptwriter",
+      "name": "Short-Form Video Scriptwriter",
+      "category": "TikTok & Short-Form Video",
+      "description": "Script 30-60 second vertical videos with a hook, one idea, proof and a single call to action.",
+      "path": "short-form-video-scriptwriter/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-trend-rider",
+      "name": "TikTok Trend Rider",
+      "category": "TikTok & Short-Form Video",
+      "description": "Use TikTok trends early and safely by adapting them to the niche instead of copying them.",
+      "path": "tiktok-trend-rider/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-series-planner",
+      "name": "TikTok Series Planner",
+      "category": "TikTok & Short-Form Video",
+      "description": "Plan a named TikTok series with episode arcs that bring viewers back daily.",
+      "path": "tiktok-series-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-live-playbook",
+      "name": "TikTok Live Playbook",
+      "category": "TikTok & Short-Form Video",
+      "description": "Run TikTok Live sessions with a run-of-show, audience prompts and a conversion moment.",
+      "path": "tiktok-live-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "short-form-filming-checklist",
+      "name": "Short-Form Filming Checklist",
+      "category": "TikTok & Short-Form Video",
+      "description": "Film short-form video with a repeatable checklist for light, sound, framing and delivery.",
+      "path": "short-form-filming-checklist/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-caption-hashtag-writer",
+      "name": "TikTok Caption and Hashtag Writer",
+      "category": "TikTok & Short-Form Video",
+      "description": "Write TikTok captions and hashtag sets that add context and search value without stuffing.",
+      "path": "tiktok-caption-hashtag-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "viral-clip-editor-brief",
+      "name": "Viral Clip Editor Brief",
+      "category": "TikTok & Short-Form Video",
+      "description": "Brief an editor to cut long content into short clips that keep context and land the payoff.",
+      "path": "viral-clip-editor-brief/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-shop-content-planner",
+      "name": "TikTok Shop Content Planner",
+      "category": "TikTok & Short-Form Video",
+      "description": "Plan TikTok Shop content that sells through demonstration and trust, where TikTok Shop operates.",
+      "path": "tiktok-shop-content-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-profile-optimizer",
+      "name": "Instagram Profile Optimizer",
+      "category": "Instagram & Reels",
+      "description": "Optimise an Instagram profile: searchable name field, bio lines, highlights and link strategy.",
+      "path": "instagram-profile-optimizer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "reels-content-planner",
+      "name": "Reels Content Planner",
+      "category": "Instagram & Reels",
+      "description": "Plan a month of Instagram Reels around pillars, formats and a filming batch.",
+      "path": "reels-content-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-carousel-planner",
+      "name": "Instagram Carousel Planner",
+      "category": "Instagram & Reels",
+      "description": "Plan Instagram carousels that get swiped and saved with a headline-per-slide structure.",
+      "path": "instagram-carousel-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-stories-sequence",
+      "name": "Instagram Stories Sequence Planner",
+      "category": "Instagram & Reels",
+      "description": "Plan Instagram Stories sequences that move viewers from tap to reply to action.",
+      "path": "instagram-stories-sequence/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-broadcast-channel-manager",
+      "name": "Instagram Broadcast Channel Manager",
+      "category": "Instagram & Reels",
+      "description": "Run an Instagram broadcast channel as a high-intent inner circle, not a second feed.",
+      "path": "instagram-broadcast-channel-manager/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-hashtag-strategy",
+      "name": "Instagram Hashtag Strategy",
+      "category": "Instagram & Reels",
+      "description": "Build Instagram hashtag sets by post type that support discovery without spam signals.",
+      "path": "instagram-hashtag-strategy/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-collab-post-planner",
+      "name": "Instagram Collab Post Planner",
+      "category": "Instagram & Reels",
+      "description": "Plan Instagram Collabs posts with partners so both audiences get real value.",
+      "path": "instagram-collab-post-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-feed-planner",
+      "name": "Instagram Feed Planner",
+      "category": "Instagram & Reels",
+      "description": "Plan an Instagram feed grid that looks intentional without sacrificing content performance.",
+      "path": "instagram-feed-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "reels-hook-caption-writer",
+      "name": "Reels Hook and Caption Writer",
+      "category": "Instagram & Reels",
+      "description": "Write Reels hooks and captions that combine a spoken hook, on-screen text and a searchable caption.",
+      "path": "reels-hook-caption-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "instagram-giveaway-planner",
+      "name": "Instagram Giveaway Planner",
+      "category": "Instagram & Reels",
+      "description": "Run an Instagram giveaway that grows the right audience and follows platform promotion rules.",
+      "path": "instagram-giveaway-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-channel-strategy",
+      "name": "YouTube Channel Strategy",
+      "category": "YouTube",
+      "description": "Position a YouTube channel around one viewer promise, 3 content pillars and a packaging system.",
+      "path": "youtube-channel-strategy/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-video-ideation",
+      "name": "YouTube Video Ideation",
+      "category": "YouTube",
+      "description": "Generate YouTube video ideas from audience problems, search demand and proven outliers.",
+      "path": "youtube-video-ideation/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-title-thumbnail-planner",
+      "name": "YouTube Title and Thumbnail Planner",
+      "category": "YouTube",
+      "description": "Design YouTube titles and thumbnails as one packaging unit that earns the click honestly.",
+      "path": "youtube-title-thumbnail-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-script-outline-builder",
+      "name": "YouTube Script Outline Builder",
+      "category": "YouTube",
+      "description": "Outline long-form YouTube scripts with a retention-first structure and proof segments.",
+      "path": "youtube-script-outline-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-shorts-planner",
+      "name": "YouTube Shorts Planner",
+      "category": "YouTube",
+      "description": "Plan YouTube Shorts as discovery assets that route viewers into long-form content.",
+      "path": "youtube-shorts-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-seo-descriptions",
+      "name": "YouTube SEO Descriptions and Chapters",
+      "category": "YouTube",
+      "description": "Write YouTube descriptions, chapters and tags that help search and viewers without keyword stuffing.",
+      "path": "youtube-seo-descriptions/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-community-posts-planner",
+      "name": "YouTube Community Posts Planner",
+      "category": "YouTube",
+      "description": "Use YouTube Community posts (polls, images, quizzes) to keep subscribers warm between uploads.",
+      "path": "youtube-community-posts-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-live-stream-playbook",
+      "name": "YouTube Live Stream Playbook",
+      "category": "YouTube",
+      "description": "Run YouTube live streams with scheduled promotion, a segment plan and chaptered replays.",
+      "path": "youtube-live-stream-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-retention-analyzer",
+      "name": "YouTube Retention Analyzer",
+      "category": "YouTube",
+      "description": "Analyse YouTube audience-retention curves and convert dips into editing rules.",
+      "path": "youtube-retention-analyzer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "youtube-monetization-planner",
+      "name": "YouTube Monetization Planner",
+      "category": "YouTube",
+      "description": "Plan YouTube monetisation honestly: ads eligibility, memberships, products and sponsorship fit.",
+      "path": "youtube-monetization-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-profile-optimizer",
+      "name": "X Profile Optimizer",
+      "category": "X / Twitter",
+      "description": "Optimise an X profile bio, banner and pinned post for a 3-second niche read.",
+      "path": "x-profile-optimizer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-thread-writer",
+      "name": "X Thread Writer",
+      "category": "X / Twitter",
+      "description": "Write X threads that deliver a complete framework or story across posts.",
+      "path": "x-thread-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-content-calendar",
+      "name": "X Content Calendar",
+      "category": "X / Twitter",
+      "description": "Run an X cadence mixing original posts, threads, replies and quote posts.",
+      "path": "x-content-calendar/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-engagement-routine",
+      "name": "X Engagement Routine",
+      "category": "X / Twitter",
+      "description": "Run a daily X engagement routine that builds real relationships in the niche.",
+      "path": "x-engagement-routine/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-spaces-playbook",
+      "name": "X Spaces Playbook",
+      "category": "X / Twitter",
+      "description": "Host X Spaces with a topic, co-host structure and a recording-to-content pipeline.",
+      "path": "x-spaces-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-viral-hook-writer",
+      "name": "X Viral Hook Writer",
+      "category": "X / Twitter",
+      "description": "Write first lines for X posts that stop the scroll with specificity and tension.",
+      "path": "x-viral-hook-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-community-building",
+      "name": "X Community Building",
+      "category": "X / Twitter",
+      "description": "Build and run an X Community (or a hashtag-free niche circle) with rituals and moderation.",
+      "path": "x-community-building/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-newsjacking-response",
+      "name": "X Newsjacking Response Playbook",
+      "category": "X / Twitter",
+      "description": "Respond to breaking niche news on X fast, accurately and in brand voice.",
+      "path": "x-newsjacking-response/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-analytics-review",
+      "name": "X Analytics Review",
+      "category": "X / Twitter",
+      "description": "Review X analytics by content type to find what actually drives bookmarks, visits and follows.",
+      "path": "x-analytics-review/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "x-creator-monetization-planner",
+      "name": "X Creator Monetization Planner",
+      "category": "X / Twitter",
+      "description": "Plan X monetisation paths \u2014 subscriptions, ads revenue sharing and offers \u2014 on real eligibility and fit.",
+      "path": "x-creator-monetization-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-page-manager",
+      "name": "Facebook Page Manager",
+      "category": "Facebook & Communities",
+      "description": "Manage a Facebook Page with complete info, a posting rhythm and fast message response.",
+      "path": "facebook-page-manager/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-group-community-playbook",
+      "name": "Facebook Group Community Playbook",
+      "category": "Facebook & Communities",
+      "description": "Launch and grow a Facebook Group with a clear promise, rules and weekly rituals.",
+      "path": "facebook-group-community-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-group-engagement-prompts",
+      "name": "Facebook Group Engagement Prompts",
+      "category": "Facebook & Communities",
+      "description": "Write Facebook Group prompts that start real member conversations, not engagement bait.",
+      "path": "facebook-group-engagement-prompts/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-events-promotion",
+      "name": "Facebook Events Promotion",
+      "category": "Facebook & Communities",
+      "description": "Promote events with Facebook Events from listing to reminders to recap.",
+      "path": "facebook-events-promotion/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-reels-planner",
+      "name": "Facebook Reels Planner",
+      "category": "Facebook & Communities",
+      "description": "Plan Facebook Reels that suit Facebook's older, sharing-driven audience instead of copying TikTok blindly.",
+      "path": "facebook-reels-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-marketplace-listing-writer",
+      "name": "Facebook Marketplace Listing Writer",
+      "category": "Facebook & Communities",
+      "description": "Write Facebook Marketplace listings with honest photos, searchable titles and safe meetup practice.",
+      "path": "facebook-marketplace-listing-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-community-moderation",
+      "name": "Facebook Community Moderation",
+      "category": "Facebook & Communities",
+      "description": "Moderate a Facebook Group or Page community with clear rules, fast triage and fair escalation.",
+      "path": "facebook-community-moderation/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-crossposting-system",
+      "name": "Facebook Crossposting System",
+      "category": "Facebook & Communities",
+      "description": "Crosspost content to Facebook properly: adapted per surface instead of one-click duplication.",
+      "path": "facebook-crossposting-system/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-page-growth-audit",
+      "name": "Facebook Page Growth Audit",
+      "category": "Facebook & Communities",
+      "description": "Audit a Facebook Page for the leaks that stall growth: info gaps, format mix and response quality.",
+      "path": "facebook-page-growth-audit/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "facebook-messenger-community-manager",
+      "name": "Facebook Messenger Community Manager",
+      "category": "Facebook & Communities",
+      "description": "Manage Facebook Messenger and broadcast channels as a service and community channel, within Meta's messaging rules.",
+      "path": "facebook-messenger-community-manager/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "content-pillar-builder",
+      "name": "Content Pillar Builder",
+      "category": "Content Systems",
+      "description": "Build 3-5 content pillars that connect audience pains to the offer without turning every post into an ad.",
+      "path": "content-pillar-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-content-calendar-builder",
+      "name": "Social Content Calendar Builder",
+      "category": "Content Systems",
+      "description": "Build a 4-week social content calendar with pillars, formats, owners and approval states.",
+      "path": "social-content-calendar-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "content-repurposing-engine",
+      "name": "Content Repurposing Engine",
+      "category": "Content Systems",
+      "description": "Turn one hero asset into a week of platform-native content without copy-paste duplication.",
+      "path": "content-repurposing-engine/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "hook-library-builder",
+      "name": "Hook Library Builder",
+      "category": "Content Systems",
+      "description": "Build a personal hook library organised by frame, niche and proven performance.",
+      "path": "hook-library-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "content-scripting-framework",
+      "name": "Content Scripting Framework",
+      "category": "Content Systems",
+      "description": "Script social videos and spoken content with reusable frameworks per format length.",
+      "path": "content-scripting-framework/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "batch-content-production-system",
+      "name": "Batch Content Production System",
+      "category": "Content Systems",
+      "description": "Run a batch production day that films and drafts a week or month of content in one session.",
+      "path": "batch-content-production-system/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "content-idea-bank-builder",
+      "name": "Content Idea Bank Builder",
+      "category": "Content Systems",
+      "description": "Build a scored, never-empty content idea bank fed by audience language and performance data.",
+      "path": "content-idea-bank-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "storytelling-framework-social",
+      "name": "Storytelling Framework for Social",
+      "category": "Content Systems",
+      "description": "Tell true business and personal stories on social with structure that serves the audience, not the ego.",
+      "path": "storytelling-framework-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "content-review-checklist",
+      "name": "Content Review Checklist",
+      "category": "Content Systems",
+      "description": "Review social content before publishing with a checklist covering claims, voice, format and accessibility.",
+      "path": "content-review-checklist/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "evergreen-content-recycler",
+      "name": "Evergreen Content Recycler",
+      "category": "Content Systems",
+      "description": "Recycle proven evergreen content on a schedule without boring the audience or looking lazy.",
+      "path": "evergreen-content-recycler/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "comment-reply-playbook",
+      "name": "Comment Reply Playbook",
+      "category": "Community Management & Engagement",
+      "description": "Reply to social comments in a way that extends reach, answers questions and builds regulars.",
+      "path": "comment-reply-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "dm-triage-response-system",
+      "name": "DM Triage and Response System",
+      "category": "Community Management & Engagement",
+      "description": "Triage social DMs by intent and urgency with saved replies that still sound human.",
+      "path": "dm-triage-response-system/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "daily-engagement-routine-social",
+      "name": "Daily Engagement Routine for Social",
+      "category": "Community Management & Engagement",
+      "description": "Run a 30-45 minute daily engagement routine across platforms that compounds into community.",
+      "path": "daily-engagement-routine-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-moderation-escalation-guide",
+      "name": "Social Moderation and Escalation Guide",
+      "category": "Community Management & Engagement",
+      "description": "Moderate social channels with clear offence tiers, actions and escalation paths.",
+      "path": "social-moderation-escalation-guide/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-crisis-response-playbook",
+      "name": "Social Crisis Response Playbook",
+      "category": "Community Management & Engagement",
+      "description": "Respond to a social media crisis with verification, one voice and a documented timeline.",
+      "path": "social-crisis-response-playbook/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "fan-recognition-program",
+      "name": "Fan Recognition Program",
+      "category": "Community Management & Engagement",
+      "description": "Recognise and reward loyal community members publicly and fairly, without buying affection.",
+      "path": "fan-recognition-program/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "community-onboarding-social",
+      "name": "Community Onboarding for Social Audiences",
+      "category": "Community Management & Engagement",
+      "description": "Onboard new followers and members with a first-week experience that turns follows into belonging.",
+      "path": "community-onboarding-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "ugc-community-prompt-system",
+      "name": "UGC Community Prompt System",
+      "category": "Community Management & Engagement",
+      "description": "Prompt user-generated content from a community with clear briefs, permission and credit.",
+      "path": "ugc-community-prompt-system/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-faq-response-bank",
+      "name": "Social FAQ Response Bank",
+      "category": "Community Management & Engagement",
+      "description": "Build a living bank of accurate answers to the questions a social audience asks repeatedly.",
+      "path": "social-faq-response-bank/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "engagement-recovery-plan",
+      "name": "Engagement Recovery Plan",
+      "category": "Community Management & Engagement",
+      "description": "Recover a social account whose engagement has dropped, by diagnosing before posting more.",
+      "path": "engagement-recovery-plan/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "influencer-prospecting-social",
+      "name": "Influencer Prospecting for Social",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Find and vet influencers and creators whose audiences genuinely match the target buyer.",
+      "path": "influencer-prospecting-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "creator-outreach-messages",
+      "name": "Creator Outreach Messages",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Write creator and influencer outreach messages that get replies because they are specific and respectful.",
+      "path": "creator-outreach-messages/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "influencer-brief-writer",
+      "name": "Influencer Brief Writer",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Write influencer and creator briefs that protect the message without strangling the creator's style.",
+      "path": "influencer-brief-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "ugc-campaign-planner",
+      "name": "UGC Campaign Planner",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Plan a UGC campaign with creator sourcing, content specs, rights and a posting calendar.",
+      "path": "ugc-campaign-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "creator-rate-negotiation-prep",
+      "name": "Creator Rate Negotiation Prep",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Prepare for creator rate negotiations with market context, value math and walk-away points.",
+      "path": "creator-rate-negotiation-prep/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "whitelisting-spark-ads-planner",
+      "name": "Whitelisting and Spark Ads Planner",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Plan whitelisting and Spark Ads that run paid behind creator content with proper permission and measurement.",
+      "path": "whitelisting-spark-ads-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "influencer-campaign-tracker",
+      "name": "Influencer Campaign Tracker",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Track an influencer campaign from outreach to results in one register the whole team trusts.",
+      "path": "influencer-campaign-tracker/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "creator-content-review-checklist",
+      "name": "Creator Content Review Checklist",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Review creator content before it goes live: facts, disclosure, brand fit and rights.",
+      "path": "creator-content-review-checklist/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "ambassador-program-builder-social",
+      "name": "Ambassador Program Builder for Social",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Build a social ambassador program with tiers, perks, duties and honest measurement.",
+      "path": "ambassador-program-builder-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "influencer-fraud-check",
+      "name": "Influencer Fraud and Authenticity Check",
+      "category": "Influencer & Creator Partnerships",
+      "description": "Check an influencer's authenticity before paying: audience quality, engagement reality and history.",
+      "path": "influencer-fraud-check/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "meta-ads-campaign-planner",
+      "name": "Meta Ads Campaign Planner",
+      "category": "Paid Social",
+      "description": "Plan Meta (Facebook and Instagram) ad campaigns with objective, structure and measurement set before spend.",
+      "path": "meta-ads-campaign-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "linkedin-ads-campaign-planner",
+      "name": "LinkedIn Ads Campaign Planner",
+      "category": "Paid Social",
+      "description": "Plan LinkedIn ad campaigns targeting roles and companies with content offers B2B buyers respect.",
+      "path": "linkedin-ads-campaign-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "tiktok-ads-campaign-planner",
+      "name": "TikTok Ads Campaign Planner",
+      "category": "Paid Social",
+      "description": "Plan TikTok ad campaigns built on native creative and Spark-first testing.",
+      "path": "tiktok-ads-campaign-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "paid-social-creative-testing",
+      "name": "Paid Social Creative Testing",
+      "category": "Paid Social",
+      "description": "Run paid social creative tests with one variable at a time and pre-set decision rules.",
+      "path": "paid-social-creative-testing/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "retargeting-funnel-planner-social",
+      "name": "Retargeting Funnel Planner for Social",
+      "category": "Paid Social",
+      "description": "Build social retargeting pools and sequences that move warm audiences one step at a time.",
+      "path": "retargeting-funnel-planner-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-ad-copy-writer",
+      "name": "Social Ad Copy Writer",
+      "category": "Paid Social",
+      "description": "Write paid social ad copy with a hook, proof and one action, matched to the creative.",
+      "path": "social-ad-copy-writer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "audience-targeting-builder-social",
+      "name": "Audience Targeting Builder for Social Ads",
+      "category": "Paid Social",
+      "description": "Build paid social audience sets from first-party data, interests and account lists, lawfully.",
+      "path": "audience-targeting-builder-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "paid-social-budget-planner",
+      "name": "Paid Social Budget Planner",
+      "category": "Paid Social",
+      "description": "Plan paid social budgets across platforms, funnels and test reserves with honest targets.",
+      "path": "paid-social-budget-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "landing-page-social-ad-alignment",
+      "name": "Landing Page and Social Ad Alignment",
+      "category": "Paid Social",
+      "description": "Align landing pages with the social ads that send traffic so the click feels like one continuous promise.",
+      "path": "landing-page-social-ad-alignment/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "paid-social-performance-review",
+      "name": "Paid Social Performance Review",
+      "category": "Paid Social",
+      "description": "Review paid social performance monthly and reallocate budget on evidence, not anecdotes.",
+      "path": "paid-social-performance-review/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "full-social-media-audit",
+      "name": "Full Social Media Audit",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Run a full social media audit across accounts, content, audience, community and conversion with scored findings.",
+      "path": "full-social-media-audit/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-analytics-report-builder",
+      "name": "Social Analytics Report Builder",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Build a monthly social analytics report that leads with decisions, not screenshots.",
+      "path": "social-analytics-report-builder/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "competitor-social-research",
+      "name": "Competitor Social Research",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Research competitors' social presence systematically: cadence, pillars, engagement quality and gaps.",
+      "path": "competitor-social-research/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-listening-brief",
+      "name": "Social Listening Brief",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Turn social listening into a brief: what the audience is saying, feeling and asking, with evidence.",
+      "path": "social-listening-brief/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "trend-discovery-radar",
+      "name": "Trend Discovery Radar",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Run a weekly trend radar that surfaces usable trends early with fit and risk notes.",
+      "path": "trend-discovery-radar/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "best-time-to-post-analyzer",
+      "name": "Best Time to Post Analyzer",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Find the best posting times for an account from its own data, tested rather than copied from generic charts.",
+      "path": "best-time-to-post-analyzer/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "follower-growth-experiment-planner",
+      "name": "Follower Growth Experiment Planner",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Plan follower growth experiments with hypotheses, quality guards and kill criteria.",
+      "path": "follower-growth-experiment-planner/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-roi-reporting",
+      "name": "Social ROI Reporting",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Report social media ROI in a way finance respects: costs fully loaded, revenue honestly attributed.",
+      "path": "social-roi-reporting/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "social-benchmark-tracker",
+      "name": "Social Benchmark Tracker",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Track benchmarks against competitors and the account's own history with consistent definitions.",
+      "path": "social-benchmark-tracker/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    },
+    {
+      "slug": "monthly-growth-review-social",
+      "name": "Monthly Growth Review for Social",
+      "category": "Analytics, Social Listening & Growth",
+      "description": "Run the monthly social growth review: what grew, what stalled, and the 3 moves for next month.",
+      "path": "monthly-growth-review-social/SKILL.md",
+      "version": "1.0",
+      "license": "MIT",
+      "author": "Lionel Sim"
+    }
+  ]
+}

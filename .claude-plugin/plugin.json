@@ -1,0 +1,22 @@
+{
+  "name": "social-media-marketing-skills",
+  "version": "1.0.0",
+  "description": "120 social media marketing skills for AI agents across 12 categories by Lionel Sim (The AI Capitol): strategy, LinkedIn, TikTok, Instagram, YouTube, X, Facebook communities, content systems, community management, influencer partnerships, paid social and analytics \u2014 platform-specific workflows with honest-growth guardrails (no pods, no fake followers, no spam automation, disclosure on sponsored posts).",
+  "author": {
+    "name": "Lionel Sim",
+    "url": "https://sg.linkedin.com/in/lionelshen"
+  },
+  "homepage": "https://github.com/lionelsimai/social-media-marketing-skills",
+  "repository": "https://github.com/lionelsimai/social-media-marketing-skills",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "marketing",
+    "linkedin",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "skills",
+    "creator-economy"
+  ]
+}
